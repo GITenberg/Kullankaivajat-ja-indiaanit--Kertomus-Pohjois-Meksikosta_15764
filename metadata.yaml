@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15764#Kullankaivajat-ja-indiaanit--Kertomus-Pohjois-Meksikosta
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2005-05-03'
 gutenberg_type: Text
